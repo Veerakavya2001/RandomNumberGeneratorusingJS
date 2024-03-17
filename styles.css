@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(61, 99, 137);
+}
+.rollbtnwithtext{
+     text-align: center;
+     margin-top: 10em; 
+}
+#rollbtn{
+    font-size: 3em;
+    padding: 10px 25px;
+    background-color: darkgray;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#label1{
+    font-size: 3em;
+}
